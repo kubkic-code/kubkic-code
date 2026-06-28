@@ -14,6 +14,7 @@ Jsem student ČVUT a nadšenec do Pythonu, automatizace a web scrapingu. Baví m
 ### ⚡ Mimo klávesnici
 Když zrovna nepíšu kód, sypu peníze do S&P 500 a bitcoinu, zkoumám fundamenty firem, trénuju řecko-římský zápas nebo měřím VO2 max při běhání. Zkrátka jedu bomby na všech frontách.
 
-📫 **Jak se se mnou spojit:** 
+📫 **Jak se se mnou spojit:**
+
 linkedin: www.linkedin.com/in/jakub-sedlák-22861541a
 email: retardovanaopice007@gmail.com
