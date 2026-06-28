@@ -17,4 +17,4 @@ Když zrovna nepíšu kód, sypu peníze do S&P 500 a bitcoinu, zkoumám fundame
 📫 **Jak se se mnou spojit:**
 
 linkedin: www.linkedin.com/in/jakub-sedlák-22861541a
-email: retardovanaopice007@gmail.com
+email: sedlak.jaku11@gmail.com
