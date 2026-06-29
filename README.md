@@ -1,20 +1,20 @@
-# Čau! 👋 Jsem Jakub
+# Hi! 👋 I'm Jakub
 
-Jsem student ČVUT a nadšenec do Pythonu, automatizace a web scrapingu. Baví mě tvořit nástroje, které řeší reálné problémy a usnadňují nudnou práci.
+I'm a CTU (Czech Technical University) student and an enthusiast for Python, automation, and web scraping. I enjoy building tools that solve real-world problems and make boring tasks easier.
 
-### 🛠️ Co tvořím a s čím pracuji
-* **Python:** Automatizace (Selenium, botování), analýza dat, web scraping.
-* **Web Dev:** HTML5, CSS3 (Moderní responzivní design, Flexbox/Grid), Vanilla JS.
-* **AI Integrace:** Propojování nástrojů s LLM modely (Groq, LLaMA).
-* **Nástroje:** Git, GitHub Actions, Flask.
+### 🛠️ What I Build & My Tech Stack
+* **Python:** Automation (Selenium, bots), data analysis, web scraping.
+* **Web Dev:** HTML5, CSS3 (Modern responsive design, Flexbox/Grid), Vanilla JS.
+* **AI Integration:** Connecting tools with LLM models (Groq, LLaMA).
+* **Tools:** Git, GitHub Actions, Flask.
 
-### 🚀 Můj nejlepší projekt
-* 📈 **[ValuationPro](https://github.com/kubkic-code/ValuationPro)** – Komplexní investiční kalkulačka, která kombinuje reálná data z Yahoo Finance s AI od Groq pro výpočet vnitřní hodnoty akcií pomocí ověřených modelů (DCF, Graham, Lynch).
+### 🚀 My Featured Project
+* 📈 **[ValuationPro](https://github.com/kubkic-code/ValuationPro)** – A comprehensive investment calculator that combines real-time data from Yahoo Finance with Groq AI to calculate the intrinsic value of stocks using proven models (DCF, Graham, Lynch).
 
-### ⚡ Mimo klávesnici
-Když zrovna nepíšu kód, sypu peníze do S&P 500 a bitcoinu, zkoumám fundamenty firem, trénuju řecko-římský zápas nebo měřím VO2 max při běhání. Zkrátka jedu bomby na všech frontách.
+### ⚡ Beyond the Keyboard
+When I'm not writing code, I'm pouring money into the S&P 500 and Bitcoin, analyzing company fundamentals, training Greco-Roman wrestling, or tracking my VO2 max while running. Basically, I'm going all out on all fronts.
 
-📫 **Jak se se mnou spojit:**
+📫 **How to reach me:**
 
 linkedin: www.linkedin.com/in/jakub-sedlák-22861541a
 email: sedlak.jaku11@gmail.com
