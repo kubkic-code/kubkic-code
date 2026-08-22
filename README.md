@@ -154,9 +154,9 @@ class Jakub:
         self.focus          = ["Automation", "Web Scraping", "AI Integration"]
         self.sport          = "Greco-Roman Wrestling"
         self.achievements   = [
-            "🥇 Multiple-time Czech National Champion",
-            "🌍 World Championship Competitor",
-            "🇪🇺 European Championship Competitor",
+            "Multiple-time Czech National Champion",
+            "World Championship Competitor",
+            "European Championship Competitor",
         ]
         self.investing_in   = ["S&P 500", "Bitcoin"]
         self.tracking       = "VO2 max while running"
@@ -174,7 +174,7 @@ class Jakub:
 <img src="https://github-readme-stats.vercel.app/api?username=kubkic-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubkic-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kubkic-code&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/>
+<img src="https://streak-stats.demolab.com?user=kubkic-code&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/>
 
 ---
 
