@@ -169,10 +169,6 @@ class Jakub:
 
 <div align="center">
 
-### 📊 GitHub Activity
-
-![kubkic-code's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kubkic-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)
-
 ---
 
 *"The code compiles. The body trains. The portfolio grows."*
