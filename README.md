@@ -151,15 +151,15 @@ A case study in growth — my very first web project completely rewritten with m
 class Jakub:
     def __init__(self):
         self.university    = "CTU (Czech Technical University)"
-        self.focus          = ["Automation", "Web Scraping", "AI Integration"]
-        self.sport          = "Greco-Roman Wrestling"
-        self.achievements   = [
+        self.focus         = ["Automation", "Web Scraping", "AI Integration"]
+        self.sport         = "Greco-Roman Wrestling"
+        self.achievements  = [
             "Multiple-time Czech National Champion",
             "World Championship Competitor",
             "European Championship Competitor",
         ]
-        self.investing_in   = ["S&P 500", "Bitcoin"]
-        self.tracking       = "VO2 max while running"
+        self.investing_in  = ["S&P 500", "Bitcoin"]
+        self.tracking      = "VO2 max while running"
 
     def motto(self) -> str:
         return "Automate everything. Compete in everything. Go all out."
@@ -168,6 +168,8 @@ class Jakub:
 ---
 
 <div align="center">
+
+```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠤⠤⠤⠴⠶⠶⠒⠚⠋⠉⠉⠉⠉⣷⢀⣀⡤⠤⠶⠶⠒⠛⢶⡄⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡀⠀⣿⠉⠀⠀⠀⠀⠀⠀⠀⠀⢿⡀⠀⠀
@@ -199,7 +201,11 @@ class Jakub:
 ⠀⠀⠙⠛⠋⠀⡇⢠⡟⠀⠀⠀⠀⠈⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣧⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⡿⠁⠀
+```
+
 ---
+
+<br>
 
 *"The code compiles. The body trains. The portfolio grows."*
 
